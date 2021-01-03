@@ -1,0 +1,8 @@
+{
+  "name": "TFSA-API",
+  "description": "An endpoint to access TFSA yearly contribution room limits set by the Canadian government",
+  "keywords": [
+    "TFSA",
+    "Contribution Room"
+  ]
+}
